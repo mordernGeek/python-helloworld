@@ -44,4 +44,4 @@ jobs:
           file: ./Dockerfile
           platforms: linux/amd64, linux/arm64
           push: true
-          tags: mordernGeek/python-helloworld:latest
+          tags: morderngeek/python-helloworld:latest
